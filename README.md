@@ -1,5 +1,6 @@
 # Hometown-Homepage
 A responsive, aesthetic landing page dedicated to my hometown, built as part of my journey to master HTML5 and CSS3 via Scrimba.
+https://hometown-homepage-rjlt4flmw-tineetots-projects.vercel.app/
 
 ### 📖 Project Overview
 This project was a deep dive into the foundations of web development. I focused on creating an inviting, structured page for Mandaluyong—the geographic heart of Metro Manila. It highlights the city's balance of massive retail hubs and local "hole-in-the-wall" charm.
