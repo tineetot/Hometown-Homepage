@@ -29,4 +29,4 @@ This project was a deep dive into the foundations of web development. I focused 
 ### 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [[https://github.com/tineetot/hometown-homepage.git]](https://github.com/tineetot/Hometown-Homepage.git)
+   git clone https://github.com/tineetot/Hometown-Homepage.git
